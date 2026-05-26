@@ -1,0 +1,93 @@
+{
+  "teams": [
+    {
+      "id": "1779751067756",
+      "name": "asdasd",
+      "coach": "CALIL",
+      "championshipId": "1779751056168",
+      "points": 3,
+      "goals": 1
+    },
+    {
+      "id": "1779751071922",
+      "name": "asda",
+      "coach": "asdasdasd",
+      "championshipId": "1779751056168",
+      "points": 3,
+      "goals": 1
+    },
+    {
+      "id": "1779752429475",
+      "name": "asdas",
+      "coach": "sad",
+      "championshipId": "1779752424860",
+      "points": 0,
+      "goals": 0
+    }
+  ],
+  "matches": [
+    {
+      "id": "1779751196386",
+      "championshipId": "1779751056168",
+      "team1Id": "1779751067756",
+      "team2Id": "1779751071922",
+      "score1": 1,
+      "score2": 0,
+      "playerStats": [
+        {
+          "playerId": "1779751076257",
+          "playerName": "asd",
+          "goals": 1,
+          "yellowCards": 0,
+          "redCards": 0
+        }
+      ]
+    },
+    {
+      "id": "1779751722368",
+      "championshipId": "1779751056168",
+      "team1Id": "1779751071922",
+      "team2Id": "1779751067756",
+      "score1": 1,
+      "score2": 0,
+      "playerStats": [
+        {
+          "playerId": "1779751076257",
+          "playerName": "asd",
+          "goals": 1,
+          "yellowCards": 1,
+          "redCards": 0
+        }
+      ]
+    }
+  ],
+  "players": [
+    {
+      "id": "1779751076257",
+      "name": "asd",
+      "teamId": "1779751067756",
+      "championshipId": "1779751056168",
+      "shirtNumber": "11",
+      "goals": 2,
+      "yellowCards": 1,
+      "redCards": 0
+    }
+  ],
+  "championships": [
+    {
+      "id": "1779750898502",
+      "name": "CIRICO CUP",
+      "createdAt": "2026-05-25T23:14:58.502Z"
+    },
+    {
+      "id": "1779751056168",
+      "name": "TITULAR",
+      "createdAt": "2026-05-25T23:17:36.168Z"
+    },
+    {
+      "id": "1779752424860",
+      "name": "sad",
+      "createdAt": "2026-05-25T23:40:24.860Z"
+    }
+  ]
+}
